@@ -1,4 +1,8 @@
-## Hi there 👋
+## Holla! I'm Dnyanai (pronounced as Nyah-nai) 👋
+
+## About Me:
+
+
 
 <!--
 **dnyanai/Dnyanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
